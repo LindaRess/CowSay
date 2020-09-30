@@ -1,0 +1,22 @@
+{
+  "name": "cowsay1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LindaRess/cowsay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LindaRess/cowsay/issues"
+  },
+  "homepage": "https://github.com/LindaRess/cowsay#readme",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
+}
